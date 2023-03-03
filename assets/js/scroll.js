@@ -1,3 +1,4 @@
+/*
 $(window).scroll(function() {
     var scroll = $(window).scrollTop();
     if (scroll > 1) {
@@ -8,4 +9,5 @@ $(window).scroll(function() {
       $(".btn1").css("background-color", "transparent");
     }
   });
-  
+  scroll();
+  */
