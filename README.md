@@ -57,7 +57,7 @@ Sono stati rispettati i mockup forniti per:
 1. Clona il repository:
 
    ```bash
-   git clone https://github.com/tuo-utente/epicode-benchmark-clone.git
+   git clone https://github.com/tuo-utente/nome-progetto.git
    ```
 
 2. Apri index.html in un browser moderno oppure col Live Server di Visual Studio Code per visualizzare la pagina web.
